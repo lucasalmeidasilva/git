@@ -1,1 +1,1 @@
-Arquivo modificado pleo clone2 para dar conflito
+Arquivo Modificado pelo clone1 para o conflito
