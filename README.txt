@@ -1,1 +1,1 @@
-Esse repositorio contem o codigo do Lab1 
+Arquivo Modificado pelo clone1 para o conflito
